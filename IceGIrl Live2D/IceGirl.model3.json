@@ -14,16 +14,6 @@
         { "File": "DaiJi.motion3.json" },
         { "File": "HuiShou.motion3.json" },
         { "File": "MeiYan.motion3.json" }
-      ],
-      "Number": [
-        { "File": "IceGirl.motion1.json" }, 
-        { "File": "IceGirl.motion2.json" }, 
-        { "File": "IceGirl.motion3.json" }, 
-        { "File": "IceGirl.motion4.json" }, 
-        { "File": "IceGirl.motion5.json" }, 
-        { "File": "IceGirl.motion6.json" }, 
-        { "File": "IceGirl.motion7.json" }, 
-        { "File": "IceGirl.motion8.json" } 
       ]
     }
   },
